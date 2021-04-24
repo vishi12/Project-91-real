@@ -1,0 +1,57 @@
+#player1_login {
+    border-radius:10px;
+    width:600px;
+    height:200px;
+    background-color:orange;
+}
+#player2_login {
+    border-radius:10px;
+    width:600px;
+    height:200px;
+    background-color:orange;
+}
+#login1{
+    margin-top:20px;
+}
+#start_game {
+    border-radius:10px;
+    font-size:25px;
+    height:100px;
+    width:300px;
+}
+#login_page {
+    background-image:url("https://t4.ftcdn.net/jpg/01/19/11/55/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg");
+    text-align:center;
+}
+#game {
+    background-image:url("https://image.shutterstock.com/image-illustration/abstract-background-camera-flies-past-260nw-733632979.jpg");
+    text-align:center;
+}
+#output{
+    font-size:20px;
+    background:white;
+    border-radius:10px;
+    border-top:10px solid #AA4465;
+    padding:10px;
+    float:10px;
+    text-align:left;
+    width:500px;
+    height:300px;
+}
+#Number1_div{
+    border-radius:10px;
+    background-color:yellow;
+    width:600px;
+    height:60px;
+}
+#Number2_div{
+    border-radius:10px;
+    background-color:yellow;
+    width:600px;
+    height:60px;
+}
+#send_button{
+    border-radius:5px;
+    background-color:blue;
+    font-size:25px;
+}
